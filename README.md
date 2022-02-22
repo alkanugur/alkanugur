@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alkanugur
-- 👀 I’m interested in arduino, devC++ and matlab 
+- 👀 I’m interested in arduino, devC and matlab 
 - 🌱 I’m currently learning programming. I'm also studying engineering
 - 
 
